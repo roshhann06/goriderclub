@@ -4500,7 +4500,7 @@ body {
 }
 
 .feature-pointer-text {
-    font-family: monospace; /* Monospace typography structure configuration matching image style rule */
+    font-family: Inter; /* Monospace typography structure configuration matching image style rule */
     font-size: 14px;
     font-weight: 600;
     color: #ff0000; /* Unified brand feature cyan */
